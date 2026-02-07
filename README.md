@@ -1,2 +1,2 @@
-# CP
-A repo containig solutions to some cp porblems
+# Competitive Programming 
+A repo containig solutions to some competitive programming porblems
